@@ -59,6 +59,7 @@ a:hover {
     padding-bottom: 10rem;
     max-width: 1200px;
     margin: 0 auto;
+    height: 80vh;
 }
 
 #intro p {
@@ -79,6 +80,7 @@ a:hover {
 #intro .name {
     font-family: var(--mono);
     font-size: 1rem;
+    padding-top: 10px;
 }
 
 .name span {
